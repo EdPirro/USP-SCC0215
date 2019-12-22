@@ -6,7 +6,7 @@ files = $(sort $(wildcard *.c))
 
 #checks if you have every file you need
 ifneq ($(files),$(sourceFies))
-$(error You're missing some (if not all) the necessary source files for this project, try getting them at 'github.com/EdPirro/tree/master/SSC0105' then try again)
+$(error You're missing some (if not all) the necessary source files for this project, try getting them at 'https://github.com/EdPirro/USP-SSC0215' then try again)
 endif
 
 # simple compile all .c files with gcc
