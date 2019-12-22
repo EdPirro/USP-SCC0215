@@ -16,7 +16,7 @@ all exe exe.exe:
 # defines run and clean if windows is being used
 ifeq ($(OS), Windows_NT)
 
-# run checks wheater the case variable was set to a valid one, if it was
+# run checks whether the case variable was set to a valid one, if it was
 # runs with the entered test case, if it isn't it runs withou any test case
 # and waits for the inputs to be given manually
 run: exe.exe
