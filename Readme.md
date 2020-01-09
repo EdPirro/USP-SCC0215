@@ -55,8 +55,3 @@ Esse projeto é licensiado sob a [licensa MIT](LICENSE).
 <sub><sup>
 *Os direitos sobre as listas  de exercicio ([aqui](ProjDesc)) são da professora e monitores da disciplina (creditos dentro do arquivo).
 </sup></sub>
-
-Reposiório:
-----------
-
-[Voltar à página principal do projeto.](https://github.com/EdPirro/USP-SCC0215)
